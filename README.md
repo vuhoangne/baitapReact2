@@ -2,7 +2,6 @@
 
 Ứng dụng thử kính mắt trực tuyến đơn giản, cho phép người dùng thử các loại kính khác nhau trên các khuôn mặt khác nhau.
 
-![Try Glasses App Preview](https://via.placeholder.com/800x400?text=Try+Glasses+App+Online)
 
 ## Tính năng
 
